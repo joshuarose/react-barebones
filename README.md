@@ -12,6 +12,7 @@ Minimalist react setup
 - Travis Config for lighthouse
 - Integrate front end checklist
 - TailwindCSS
+- State Management?
 - Analytics?
 
 # Change name
