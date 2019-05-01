@@ -7,3 +7,11 @@ Minimalist react setup
 - Styled components setup and included
 - Critical CSS
 - PurgeCSS
+- Image compression
+- Google Workbox for PWA score
+- Travis Config for lighthouse
+- Integrate front end checklist
+- TailwindCSS
+- Analytics?
+
+# Change name
